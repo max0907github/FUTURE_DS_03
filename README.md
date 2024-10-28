@@ -71,6 +71,3 @@ The model outputs a prediction for each applicant: either "Loan Approved" or "Lo
 
 This project is open-source and available under the MIT License.
 
---- 
-
-Make sure to replace `path_to_data` with the actual link to your data if available publicly. If you need more guidance on adding specific commands or extra details, feel free to ask!
