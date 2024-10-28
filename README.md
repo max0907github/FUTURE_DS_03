@@ -1,5 +1,5 @@
 # Loan Approval Prediction Model
-![image](https://github.com/user-attachments/assets/34508bb9-e592-4c85-a9ed-4217b7dcfcc9)
+![image](https://github.com/user-attachments/assets/4b42220c-4bf5-4156-87e2-21cea575d034)
 
 This repository contains a machine learning model built to predict loan approval status based on applicant data. The dataset is pre-processed and trained using a Random Forest Classifier to classify loan applications as either "Approved" or "Not Approved."
 
